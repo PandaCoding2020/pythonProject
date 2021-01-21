@@ -1,0 +1,13 @@
+str1 = '012345678'
+# print(str1)
+# print(str1[2:5:1])
+# print(str1[2:5:2])
+# print(str1[2:5])
+# print(str1[:5])
+# print(str1[2:])
+# print(str1[:])
+# print(str1[::-1])
+# print(str1[-4:-1])
+# print(str1[-4:-1:1])
+#print(str1[-4:-1:-1])
+print(str1[-1:-4:-1])
