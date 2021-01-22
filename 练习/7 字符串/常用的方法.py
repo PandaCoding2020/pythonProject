@@ -1,5 +1,13 @@
 mystr = "hello world and itcast and itheima and Python"
-
-print(mystr.find('and'))
-print(mystr.find('and'),15,30)
-print(mystr.find("ands"))
+# find()
+# print(mystr.find('and'))
+# print(mystr.find('and'),15,30)
+# print(mystr.find("ands"))
+#index()
+print(mystr.index('and'))
+print(mystr.index('and',15,30))
+# count()
+print(mystr.count('and',15,30))
+print(mystr.count('and'))
+print(mystr.count('ands'))
+# rfind()

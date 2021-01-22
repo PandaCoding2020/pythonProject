@@ -1,0 +1,17 @@
+mystr = "hello world and itcast and itheima and Python"
+# find()
+# print(mystr.find('and'))
+# print(mystr.find('and'),15,30)
+# print(mystr.find("ands"))
+#修改：replace()
+# new_str = mystr.replace('and','he',10)
+# print(mystr)
+# print(new_str)
+#修改：split
+# list = mystr.split('and',2)
+# print(mystr)
+# print(list)
+#修改：join()
+mylist = ('aa','bb','ccc','dddddddd')
+new_str = '...'.join(mylist)
+print(new_str)
