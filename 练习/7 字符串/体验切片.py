@@ -1,9 +1,9 @@
 str1 = '012345678'
 # print(str1)
-# print(str1[2:5:1])
-# print(str1[2:5:2])
-# print(str1[2:5])
-# print(str1[:5])
+# print(str1[2:5 while循环:1])
+# print(str1[2:5 while循环:2])
+# print(str1[2:5 while循环])
+# print(str1[:5 while循环])
 # print(str1[2:])
 # print(str1[:])
 # print(str1[::-1])
