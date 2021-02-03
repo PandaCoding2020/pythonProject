@@ -16,7 +16,7 @@ class Douyu(object):
         self.driver = webdriver.Chrome()
 
     def parse_data(self):
-        time.sleep(3)
+        time.sleep(10)
         room_list = self.driver.find_elements_by_xpath('//*[@id="listAll"]/section[2]/div[2]/ul/li/div')
         print(len(room_list))
 
